@@ -2,8 +2,8 @@
 
 ## Prerequisites
 
-- [https://smithy.io/2.0/guides/smithy-cli/index.html](smithy-cli)
-- [https://elixir-lang.org/](Elixir)
+- [smithy-cli](https://smithy.io/2.0/guides/smithy-cli/index.html)
+- [Elixir](https://elixir-lang.org/)
 
 The included Nix flake also adds in all the prerequisites.
 
