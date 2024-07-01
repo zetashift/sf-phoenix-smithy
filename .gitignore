@@ -11,4 +11,5 @@ erl_crash.dump
 .lexical/
 .direnv/
 .envrc
-
+# Build artifacts from Smithy
+build/
